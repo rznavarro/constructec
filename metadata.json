@@ -1,0 +1,6 @@
+{
+  "name": "Construtec - Reparación de Techos en Santiago",
+  "description": "Landing page de alta conversión para Construtec: reparación de techos, canaletas e impermeabilización en Santiago y Región Metropolitana de Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
